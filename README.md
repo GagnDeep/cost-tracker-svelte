@@ -3,7 +3,7 @@
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit GagnDeep/svelte-sass-babel-template 
+npx degit GagnDeep/svelte-sass-babel-template svelte-app
 cd svelte-app
 ```
 
